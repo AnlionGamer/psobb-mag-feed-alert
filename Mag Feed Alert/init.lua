@@ -1,6 +1,7 @@
 -- Mag Feed Alert
 -- Ephinea / PSOBB addon for the psobbaddonplugin Lua addon framework.
 -- Read-only: reads carried Mag feed timers and renders reminders.
+-- Developed with assistance from ChatGPT.
 
 local core_ok, core_mainmenu = pcall(require, "core_mainmenu")
 local helpers_ok, lib_helpers = pcall(require, "solylib.helpers")
@@ -822,7 +823,7 @@ local function init()
     return {
         name = ADDON_NAME,
         version = ADDON_VERSION,
-        author = "OpenAI / ChatGPT",
+        author = "AnlionGamer",
         description = "Live Mag feeding countdown and ready alerts for Ephinea PSOBB.",
         present = present,
     }
