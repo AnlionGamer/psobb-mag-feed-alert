@@ -1,0 +1,7 @@
+# Runtime-generated user preferences
+Mag Feed Alert/options.lua
+
+# Local packages / OS files
+*.zip
+.DS_Store
+Thumbs.db
