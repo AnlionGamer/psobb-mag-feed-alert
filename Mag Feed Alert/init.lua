@@ -1,4 +1,5 @@
 -- Mag Feed Alert
+-- SPDX-License-Identifier: GPL-3.0-or-later
 -- Ephinea / PSOBB addon for the psobbaddonplugin Lua addon framework.
 -- Read-only: reads carried Mag feed timers and renders reminders.
 -- Developed with assistance from ChatGPT.
